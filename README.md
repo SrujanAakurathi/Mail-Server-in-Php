@@ -1,7 +1,5 @@
-# Mail-Server-in-Php
+#                                                     Mail-Server-in-Php
 
-                                                      MAIL SERVER PROJECT
-                                                     
 # Uses of mailing server in our life:
 
    In professional world all the communications are being done by emails. Now a day’s mailing server is playing a very important role in our social and economical life. It is one of the secure and fast communicating mediums for a modern era. The mail server is also a good source to connect with your friends; it helps people to be active in social life. Social network helps a person both continue their existing relationship and finding new friends by reaching out the people you never met before.
